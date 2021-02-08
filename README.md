@@ -8,4 +8,4 @@ EzChat is a chat server/client/library created for fun, and meant for me to lear
 
 How I can easily create a websocket server in typescript, how I can handle events properly in python and I learned asyncio further.
 
-[![preview](./assets/preview.jpg)](./assets/ez_chat.mkv)
+[![preview](./assets/preview.jpg)](https://youtu.be/5_z2qh7QZxc)
