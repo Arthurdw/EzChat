@@ -1,0 +1,3 @@
+server/node_modules/
+client/.idea
+client/library/__pycache__
