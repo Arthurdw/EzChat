@@ -36,7 +36,7 @@ class EzClient(ChatClient):
 
     async def handle_commands(self):
         while True:
-            command = await self.async_input("")
+            command = await self.async_input()
             if command == "":
                 continue
             elif command == "help":
