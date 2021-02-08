@@ -38,7 +38,7 @@ wss.on("connection", (ws) => {
     });
   });
 
-  ws.on("close", function () {
+  ws.on("close", () => {
     console.log(`Closed: ${client_id}`);
     broadcast(ws, {
       status: 1001,
